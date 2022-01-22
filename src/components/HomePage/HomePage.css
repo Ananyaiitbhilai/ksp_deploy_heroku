@@ -16,3 +16,9 @@
     text-transform: uppercase;
     text-align: center;
 }
+
+.main h4 {
+    border: 1px solid #3c52ad;
+    padding: 50px;
+
+}
